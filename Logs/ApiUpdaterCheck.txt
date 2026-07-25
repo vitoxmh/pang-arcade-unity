@@ -1,0 +1,1528 @@
+[api-updater (non-obsolete-error-filter)] 10-07-2021 23:26:20 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft VS Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 844,9222ms
+moved types parse time: 78ms
+candidates parse time : 1ms
+C# parse time         : 711ms
+candidates check time : 52ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 10-07-2021 23:27:25 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft VS Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 77,6858ms
+moved types parse time: 69ms
+candidates parse time : 1ms
+C# parse time         : 237ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10-07-2021 23:27:42 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft VS Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 88,0275ms
+moved types parse time: 66ms
+candidates parse time : 1ms
+C# parse time         : 257ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10-07-2021 23:48:30 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft VS Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 84,9641ms
+moved types parse time: 60ms
+candidates parse time : 1ms
+C# parse time         : 231ms
+candidates check time : 31ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10-07-2021 23:48:42 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft VS Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 63,9698ms
+moved types parse time: 58ms
+candidates parse time : 1ms
+C# parse time         : 225ms
+candidates check time : 32ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11-07-2021 0:09:43 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft VS Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 84,9858ms
+moved types parse time: 62ms
+candidates parse time : 1ms
+C# parse time         : 242ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11-07-2021 1:01:36 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft VS Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 144,9835ms
+moved types parse time: 62ms
+candidates parse time : 1ms
+C# parse time         : 249ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 11-07-2021 21:44:56 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft VS Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 351,0381ms
+moved types parse time: 90ms
+candidates parse time : 1ms
+C# parse time         : 386ms
+candidates check time : 41ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 14-07-2021 0:11:40 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1047,5727ms
+moved types parse time: 67ms
+candidates parse time : 1ms
+C# parse time         : 618ms
+candidates check time : 33ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 14-07-2021 19:47:36 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1039,0967ms
+moved types parse time: 67ms
+candidates parse time : 1ms
+C# parse time         : 378ms
+candidates check time : 35ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 14-07-2021 20:17:42 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 118,0482ms
+moved types parse time: 59ms
+candidates parse time : 1ms
+C# parse time         : 235ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 14-07-2021 20:19:48 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 116,9971ms
+moved types parse time: 66ms
+candidates parse time : 1ms
+C# parse time         : 265ms
+candidates check time : 35ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 14-07-2021 21:10:13 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 184,2582ms
+moved types parse time: 78ms
+candidates parse time : 2ms
+C# parse time         : 303ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 14-07-2021 23:01:41 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 141,0029ms
+moved types parse time: 69ms
+candidates parse time : 1ms
+C# parse time         : 267ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 14-07-2021 23:02:21 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 122,0063ms
+moved types parse time: 72ms
+candidates parse time : 2ms
+C# parse time         : 293ms
+candidates check time : 56ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 14-07-2021 23:07:27 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 121,019ms
+moved types parse time: 68ms
+candidates parse time : 1ms
+C# parse time         : 262ms
+candidates check time : 57ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-07-2021 0:35:41 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 215,5498ms
+moved types parse time: 75ms
+candidates parse time : 1ms
+C# parse time         : 262ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-07-2021 0:36:25 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 126,5349ms
+moved types parse time: 82ms
+candidates parse time : 2ms
+C# parse time         : 321ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-07-2021 13:08:27 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 393,9164ms
+moved types parse time: 87ms
+candidates parse time : 2ms
+C# parse time         : 333ms
+candidates check time : 42ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15-07-2021 14:14:02 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 113,6852ms
+moved types parse time: 59ms
+candidates parse time : 1ms
+C# parse time         : 245ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-07-2021 14:14:36 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 105,747ms
+moved types parse time: 68ms
+candidates parse time : 2ms
+C# parse time         : 279ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-07-2021 14:14:49 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 115,7036ms
+moved types parse time: 65ms
+candidates parse time : 1ms
+C# parse time         : 248ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-07-2021 14:15:03 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 126,924ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 249ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-07-2021 14:15:31 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 98,6492ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 220ms
+candidates check time : 30ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-07-2021 14:30:45 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 109,0389ms
+moved types parse time: 65ms
+candidates parse time : 2ms
+C# parse time         : 259ms
+candidates check time : 32ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-07-2021 14:32:16 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 119,0002ms
+moved types parse time: 73ms
+candidates parse time : 2ms
+C# parse time         : 260ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-07-2021 23:12:29 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 364,5375ms
+moved types parse time: 88ms
+candidates parse time : 2ms
+C# parse time         : 369ms
+candidates check time : 53ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 15-07-2021 23:19:06 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 94,9472ms
+moved types parse time: 85ms
+candidates parse time : 2ms
+C# parse time         : 299ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 16-07-2021 1:25:36 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 95,0246ms
+moved types parse time: 58ms
+candidates parse time : 1ms
+C# parse time         : 245ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 16-07-2021 2:15:18 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 136,2342ms
+moved types parse time: 57ms
+candidates parse time : 1ms
+C# parse time         : 273ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 17-07-2021 22:41:55 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1024,9621ms
+moved types parse time: 69ms
+candidates parse time : 1ms
+C# parse time         : 433ms
+candidates check time : 44ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 17-07-2021 23:00:16 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 107,0002ms
+moved types parse time: 71ms
+candidates parse time : 2ms
+C# parse time         : 277ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 17-07-2021 23:44:39 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 94,0355ms
+moved types parse time: 56ms
+candidates parse time : 1ms
+C# parse time         : 264ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 18-07-2021 17:17:19 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 325,0802ms
+moved types parse time: 78ms
+candidates parse time : 1ms
+C# parse time         : 335ms
+candidates check time : 41ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 19-07-2021 13:18:31 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 885,6077ms
+moved types parse time: 60ms
+candidates parse time : 1ms
+C# parse time         : 374ms
+candidates check time : 34ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 22-07-2021 21:20:56 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1000,9956ms
+moved types parse time: 74ms
+candidates parse time : 1ms
+C# parse time         : 416ms
+candidates check time : 47ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 22-07-2021 21:21:14 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 103,9971ms
+moved types parse time: 80ms
+candidates parse time : 2ms
+C# parse time         : 274ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24-07-2021 0:22:46 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1097,2971ms
+moved types parse time: 68ms
+candidates parse time : 1ms
+C# parse time         : 413ms
+candidates check time : 45ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 24-07-2021 0:34:02 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 119,9284ms
+moved types parse time: 71ms
+candidates parse time : 1ms
+C# parse time         : 272ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24-07-2021 0:47:23 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 133,9579ms
+moved types parse time: 75ms
+candidates parse time : 1ms
+C# parse time         : 303ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24-07-2021 1:03:12 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 106,561ms
+moved types parse time: 59ms
+candidates parse time : 1ms
+C# parse time         : 267ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24-07-2021 2:29:11 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 136,0035ms
+moved types parse time: 67ms
+candidates parse time : 2ms
+C# parse time         : 317ms
+candidates check time : 55ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24-07-2021 21:56:30 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1127,9987ms
+moved types parse time: 67ms
+candidates parse time : 1ms
+C# parse time         : 336ms
+candidates check time : 41ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 01-08-2021 17:05:06 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 365,346ms
+moved types parse time: 81ms
+candidates parse time : 1ms
+C# parse time         : 361ms
+candidates check time : 44ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 01-08-2021 17:49:16 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 133,0418ms
+moved types parse time: 98ms
+candidates parse time : 2ms
+C# parse time         : 274ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 01-08-2021 23:26:33 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 180,1167ms
+moved types parse time: 58ms
+candidates parse time : 1ms
+C# parse time         : 224ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 01-08-2021 23:26:52 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 167,9584ms
+moved types parse time: 74ms
+candidates parse time : 1ms
+C# parse time         : 410ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 02-08-2021 0:15:01 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 167,9063ms
+moved types parse time: 50ms
+candidates parse time : 1ms
+C# parse time         : 234ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 02-08-2021 0:15:39 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 152ms
+moved types parse time: 61ms
+candidates parse time : 1ms
+C# parse time         : 263ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 02-08-2021 0:20:26 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 198,9971ms
+moved types parse time: 65ms
+candidates parse time : 1ms
+C# parse time         : 249ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 02-08-2021 0:20:38 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 94,0359ms
+moved types parse time: 65ms
+candidates parse time : 2ms
+C# parse time         : 262ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 02-08-2021 0:21:18 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 95,3838ms
+moved types parse time: 55ms
+candidates parse time : 1ms
+C# parse time         : 241ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 08-08-2021 19:42:49 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1072,8033ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 400ms
+candidates check time : 43ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11-08-2021 23:05:18 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1942,0007ms
+moved types parse time: 149ms
+candidates parse time : 3ms
+C# parse time         : 771ms
+candidates check time : 74ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 11-08-2021 23:18:15 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 192,0146ms
+moved types parse time: 149ms
+candidates parse time : 4ms
+C# parse time         : 589ms
+candidates check time : 89ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11-08-2021 23:18:45 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 213,5367ms
+moved types parse time: 150ms
+candidates parse time : 4ms
+C# parse time         : 564ms
+candidates check time : 71ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12-08-2021 11:16:17 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 971,656ms
+moved types parse time: 59ms
+candidates parse time : 2ms
+C# parse time         : 289ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-08-2021 14:49:26 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1673,0027ms
+moved types parse time: 101ms
+candidates parse time : 2ms
+C# parse time         : 1120ms
+candidates check time : 68ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15-08-2021 14:49:42 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 123,9254ms
+moved types parse time: 71ms
+candidates parse time : 1ms
+C# parse time         : 256ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-08-2021 15:11:29 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 97,8268ms
+moved types parse time: 61ms
+candidates parse time : 1ms
+C# parse time         : 318ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-08-2021 15:12:00 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 118,9954ms
+moved types parse time: 60ms
+candidates parse time : 2ms
+C# parse time         : 263ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-08-2021 15:12:14 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 104,6227ms
+moved types parse time: 74ms
+candidates parse time : 2ms
+C# parse time         : 266ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-08-2021 15:38:35 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 114,0263ms
+moved types parse time: 87ms
+candidates parse time : 2ms
+C# parse time         : 303ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-08-2021 15:38:43 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 99,9995ms
+moved types parse time: 67ms
+candidates parse time : 1ms
+C# parse time         : 289ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 17-08-2021 16:14:52 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1782,7485ms
+moved types parse time: 129ms
+candidates parse time : 2ms
+C# parse time         : 650ms
+candidates check time : 107ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 17-08-2021 16:21:57 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 194,5283ms
+moved types parse time: 120ms
+candidates parse time : 2ms
+C# parse time         : 521ms
+candidates check time : 108ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 21-08-2021 1:40:33 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1110,3267ms
+moved types parse time: 79ms
+candidates parse time : 1ms
+C# parse time         : 425ms
+candidates check time : 46ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 21-08-2021 1:44:21 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 105,9936ms
+moved types parse time: 81ms
+candidates parse time : 2ms
+C# parse time         : 352ms
+candidates check time : 55ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 21-08-2021 23:50:18 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 386,5096ms
+moved types parse time: 77ms
+candidates parse time : 1ms
+C# parse time         : 329ms
+candidates check time : 43ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 21-08-2021 23:54:12 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 109,9921ms
+moved types parse time: 63ms
+candidates parse time : 2ms
+C# parse time         : 245ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 22-08-2021 0:21:11 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 98,0011ms
+moved types parse time: 78ms
+candidates parse time : 2ms
+C# parse time         : 291ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 22-08-2021 0:25:08 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 146,2408ms
+moved types parse time: 117ms
+candidates parse time : 2ms
+C# parse time         : 449ms
+candidates check time : 60ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 22-08-2021 0:26:52 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 136,0739ms
+moved types parse time: 89ms
+candidates parse time : 2ms
+C# parse time         : 389ms
+candidates check time : 56ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 22-08-2021 0:34:54 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 137,0124ms
+moved types parse time: 67ms
+candidates parse time : 1ms
+C# parse time         : 233ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 22-08-2021 0:35:29 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 105,9982ms
+moved types parse time: 84ms
+candidates parse time : 3ms
+C# parse time         : 332ms
+candidates check time : 51ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 22-08-2021 0:37:09 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 88,9998ms
+moved types parse time: 61ms
+candidates parse time : 1ms
+C# parse time         : 237ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 22-08-2021 0:37:30 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 113,9989ms
+moved types parse time: 75ms
+candidates parse time : 2ms
+C# parse time         : 257ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 22-08-2021 0:37:57 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 127,9466ms
+moved types parse time: 123ms
+candidates parse time : 2ms
+C# parse time         : 355ms
+candidates check time : 54ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 22-08-2021 0:38:22 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 133,4227ms
+moved types parse time: 78ms
+candidates parse time : 2ms
+C# parse time         : 300ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 22-08-2021 0:38:57 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 115,0006ms
+moved types parse time: 80ms
+candidates parse time : 2ms
+C# parse time         : 291ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 22-08-2021 0:39:32 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 95,016ms
+moved types parse time: 67ms
+candidates parse time : 1ms
+C# parse time         : 235ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 22-08-2021 0:40:06 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 108,0191ms
+moved types parse time: 76ms
+candidates parse time : 2ms
+C# parse time         : 286ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 22-08-2021 0:42:48 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 99,9931ms
+moved types parse time: 75ms
+candidates parse time : 1ms
+C# parse time         : 275ms
+candidates check time : 31ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 22-08-2021 17:05:27 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 400,3372ms
+moved types parse time: 81ms
+candidates parse time : 2ms
+C# parse time         : 388ms
+candidates check time : 50ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 22-08-2021 17:06:16 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 91,9959ms
+moved types parse time: 86ms
+candidates parse time : 2ms
+C# parse time         : 389ms
+candidates check time : 49ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 25-08-2021 22:27:09 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1476,0389ms
+moved types parse time: 99ms
+candidates parse time : 1ms
+C# parse time         : 465ms
+candidates check time : 52ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 26-08-2021 20:53:06 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 983,5889ms
+moved types parse time: 76ms
+candidates parse time : 1ms
+C# parse time         : 421ms
+candidates check time : 47ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 27-08-2021 21:00:43 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1372,0386ms
+moved types parse time: 81ms
+candidates parse time : 19ms
+C# parse time         : 769ms
+candidates check time : 63ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 27-08-2021 21:02:03 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 86,8027ms
+moved types parse time: 62ms
+candidates parse time : 1ms
+C# parse time         : 250ms
+candidates check time : 55ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 27-08-2021 21:03:27 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 111,0295ms
+moved types parse time: 93ms
+candidates parse time : 2ms
+C# parse time         : 305ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 01-09-2021 23:28:58 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 965,5742ms
+moved types parse time: 64ms
+candidates parse time : 1ms
+C# parse time         : 315ms
+candidates check time : 39ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 01-09-2021 23:29:09 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 85,1855ms
+moved types parse time: 58ms
+candidates parse time : 2ms
+C# parse time         : 288ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 02-09-2021 17:53:20 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1200,4688ms
+moved types parse time: 69ms
+candidates parse time : 2ms
+C# parse time         : 363ms
+candidates check time : 44ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 02-09-2021 18:00:40 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 101,2874ms
+moved types parse time: 77ms
+candidates parse time : 2ms
+C# parse time         : 307ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 02-09-2021 22:14:27 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1027,5883ms
+moved types parse time: 77ms
+candidates parse time : 1ms
+C# parse time         : 410ms
+candidates check time : 64ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 02-09-2021 22:14:42 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 104,0303ms
+moved types parse time: 77ms
+candidates parse time : 2ms
+C# parse time         : 302ms
+candidates check time : 61ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 07-09-2021 15:31:37 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1659,9666ms
+moved types parse time: 71ms
+candidates parse time : 1ms
+C# parse time         : 407ms
+candidates check time : 42ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 07-09-2021 15:32:29 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 119,0384ms
+moved types parse time: 64ms
+candidates parse time : 2ms
+C# parse time         : 286ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 07-09-2021 15:34:24 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 199,8218ms
+moved types parse time: 61ms
+candidates parse time : 1ms
+C# parse time         : 257ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 07-09-2021 15:35:20 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 177,8322ms
+moved types parse time: 67ms
+candidates parse time : 2ms
+C# parse time         : 353ms
+candidates check time : 53ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 07-09-2021 15:36:55 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 204,0349ms
+moved types parse time: 61ms
+candidates parse time : 1ms
+C# parse time         : 266ms
+candidates check time : 38ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11-09-2021 0:33:28 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 936,9928ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 369ms
+candidates check time : 40ms
+console write time    : 5ms
+
+[api-updater (non-obsolete-error-filter)] 11-09-2021 1:15:46 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 93,6306ms
+moved types parse time: 64ms
+candidates parse time : 1ms
+C# parse time         : 280ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12-09-2021 0:44:47 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 905,3625ms
+moved types parse time: 71ms
+candidates parse time : 1ms
+C# parse time         : 381ms
+candidates check time : 40ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12-09-2021 1:04:03 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 141,9969ms
+moved types parse time: 83ms
+candidates parse time : 2ms
+C# parse time         : 275ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12-09-2021 1:06:06 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 91,997ms
+moved types parse time: 56ms
+candidates parse time : 1ms
+C# parse time         : 318ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12-09-2021 1:06:24 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 115,9941ms
+moved types parse time: 83ms
+candidates parse time : 2ms
+C# parse time         : 321ms
+candidates check time : 56ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12-09-2021 2:13:31 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 781,9985ms
+moved types parse time: 65ms
+candidates parse time : 1ms
+C# parse time         : 412ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 13-09-2021 16:36:45 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 924,6415ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 453ms
+candidates check time : 49ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 13-09-2021 23:33:27 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 118,0216ms
+moved types parse time: 75ms
+candidates parse time : 2ms
+C# parse time         : 244ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 14-09-2021 0:31:54 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 107,0014ms
+moved types parse time: 67ms
+candidates parse time : 1ms
+C# parse time         : 278ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-09-2021 21:34:58 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 934,002ms
+moved types parse time: 67ms
+candidates parse time : 2ms
+C# parse time         : 309ms
+candidates check time : 36ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15-09-2021 21:35:21 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 135,0009ms
+moved types parse time: 85ms
+candidates parse time : 1ms
+C# parse time         : 304ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-09-2021 21:35:40 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 87,0354ms
+moved types parse time: 61ms
+candidates parse time : 1ms
+C# parse time         : 295ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15-09-2021 21:36:10 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 98,0389ms
+moved types parse time: 63ms
+candidates parse time : 1ms
+C# parse time         : 243ms
+candidates check time : 32ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 16-09-2021 23:21:36 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1054,999ms
+moved types parse time: 70ms
+candidates parse time : 1ms
+C# parse time         : 396ms
+candidates check time : 47ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 16-09-2021 23:21:55 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 125,6642ms
+moved types parse time: 63ms
+candidates parse time : 2ms
+C# parse time         : 271ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 19-09-2021 18:00:17 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 845,7231ms
+moved types parse time: 64ms
+candidates parse time : 1ms
+C# parse time         : 376ms
+candidates check time : 44ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 20-09-2021 0:20:47 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 119,9942ms
+moved types parse time: 75ms
+candidates parse time : 2ms
+C# parse time         : 271ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 20-09-2021 23:46:20 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 970,0003ms
+moved types parse time: 76ms
+candidates parse time : 2ms
+C# parse time         : 399ms
+candidates check time : 101ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 21-09-2021 22:15:07 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 953,0437ms
+moved types parse time: 71ms
+candidates parse time : 1ms
+C# parse time         : 362ms
+candidates check time : 50ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 21-09-2021 22:18:00 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 127,9991ms
+moved types parse time: 67ms
+candidates parse time : 2ms
+C# parse time         : 270ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 21-09-2021 22:18:44 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 135,1478ms
+moved types parse time: 64ms
+candidates parse time : 1ms
+C# parse time         : 260ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 22-09-2021 22:35:54 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1019,0258ms
+moved types parse time: 75ms
+candidates parse time : 1ms
+C# parse time         : 416ms
+candidates check time : 44ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 24-09-2021 14:26:06 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1142,5693ms
+moved types parse time: 108ms
+candidates parse time : 2ms
+C# parse time         : 510ms
+candidates check time : 59ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 24-09-2021 16:55:24 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 108,9991ms
+moved types parse time: 75ms
+candidates parse time : 2ms
+C# parse time         : 253ms
+candidates check time : 32ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24-09-2021 16:56:43 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 81,0358ms
+moved types parse time: 71ms
+candidates parse time : 2ms
+C# parse time         : 274ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24-09-2021 16:57:11 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 93,9978ms
+moved types parse time: 68ms
+candidates parse time : 2ms
+C# parse time         : 316ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 27-09-2021 14:03:50 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 970,0736ms
+moved types parse time: 69ms
+candidates parse time : 2ms
+C# parse time         : 407ms
+candidates check time : 42ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 27-09-2021 14:15:43 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 94,0011ms
+moved types parse time: 60ms
+candidates parse time : 1ms
+C# parse time         : 224ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 27-09-2021 14:24:22 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 94,9897ms
+moved types parse time: 59ms
+candidates parse time : 1ms
+C# parse time         : 297ms
+candidates check time : 55ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 29-09-2021 15:28:42 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1204,003ms
+moved types parse time: 112ms
+candidates parse time : 2ms
+C# parse time         : 431ms
+candidates check time : 45ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 30-09-2021 21:02:06 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1053,8713ms
+moved types parse time: 83ms
+candidates parse time : 14ms
+C# parse time         : 357ms
+candidates check time : 53ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 01-10-2021 10:58:53 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1148ms
+moved types parse time: 94ms
+candidates parse time : 2ms
+C# parse time         : 505ms
+candidates check time : 66ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04-10-2021 17:50:44 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1272,0448ms
+moved types parse time: 74ms
+candidates parse time : 1ms
+C# parse time         : 371ms
+candidates check time : 45ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04-10-2021 21:19:35 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1080,7264ms
+moved types parse time: 76ms
+candidates parse time : 2ms
+C# parse time         : 356ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04-10-2021 21:45:48 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 151,9959ms
+moved types parse time: 77ms
+candidates parse time : 2ms
+C# parse time         : 311ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05-10-2021 15:24:19 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1176,3886ms
+moved types parse time: 95ms
+candidates parse time : 2ms
+C# parse time         : 450ms
+candidates check time : 47ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 06-10-2021 0:29:54 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 830,1833ms
+moved types parse time: 57ms
+candidates parse time : 1ms
+C# parse time         : 298ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 07-10-2021 19:31:14 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1112,9994ms
+moved types parse time: 78ms
+candidates parse time : 1ms
+C# parse time         : 506ms
+candidates check time : 63ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09-10-2021 1:36:03 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1615,1036ms
+moved types parse time: 78ms
+candidates parse time : 1ms
+C# parse time         : 430ms
+candidates check time : 73ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 09-10-2021 15:59:26 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 331,8364ms
+moved types parse time: 78ms
+candidates parse time : 1ms
+C# parse time         : 403ms
+candidates check time : 57ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09-10-2021 16:00:10 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 138,9975ms
+moved types parse time: 97ms
+candidates parse time : 1ms
+C# parse time         : 472ms
+candidates check time : 67ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 12-10-2021 20:40:09 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from D:\game dev\Pang\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 132,0015ms
+moved types parse time: 84ms
+candidates parse time : 2ms
+C# parse time         : 415ms
+candidates check time : 58ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 17-10-2021 23:31:50 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1341,9354ms
+moved types parse time: 88ms
+candidates parse time : 1ms
+C# parse time         : 430ms
+candidates check time : 47ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 29-01-2022 22:20:35 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2013,567ms
+moved types parse time: 97ms
+candidates parse time : 2ms
+C# parse time         : 469ms
+candidates check time : 49ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04-02-2022 10:38:12 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from D:\game dev\Pang\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1516,1682ms
+moved types parse time: 115ms
+candidates parse time : 2ms
+C# parse time         : 669ms
+candidates check time : 89ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04-02-2022 11:02:18 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from D:\game dev\Pang\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 115,9898ms
+moved types parse time: 77ms
+candidates parse time : 2ms
+C# parse time         : 417ms
+candidates check time : 93ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04-02-2022 11:03:22 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from D:\game dev\Pang\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <68bff7873e0e4aa69a14dfc30bebbe3e>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 104,0223ms
+moved types parse time: 75ms
+candidates parse time : 1ms
+C# parse time         : 403ms
+candidates check time : 72ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 10-05-2022 22:31:01 : Starting C:/Users/sheik/AppData/Local/Programs/Microsoft%20VS%20Code/2020.3.13f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1402,0526ms
+moved types parse time: 77ms
+candidates parse time : 1ms
+C# parse time         : 956ms
+candidates check time : 51ms
+console write time    : 1ms
+
