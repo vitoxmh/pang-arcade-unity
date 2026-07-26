@@ -205,62 +205,49 @@ public class LifeManager : MonoBehaviour
 
     public IEnumerator countContinueGame()
     {
-
         countContinue.enabled = true;
 
         while (timeContinue > 1)
         {
-
             timeContinue -= Time.deltaTime;
             float seconds = Mathf.FloorToInt(timeContinue % 60);
-         
             countContinue.text = seconds.ToString();
-
             yield return null;
         }
 
-
-
         float timeGameOver = 3f;
-        
+
         textContinue.transform.GetChild(0).gameObject.GetComponent<Text>().text = "GAME OVER";
-        countContinue.enabled = false; 
+        countContinue.enabled = false;
 
-        while (timeGameOver > 1)
+        while (timeGameOver > 0)
         {
-
             timeGameOver -= Time.deltaTime;
             yield return null;
         }
 
         MusicManager.mn.stop();
-
         MusicManager.mn.play("GameOver");
 
-
-        while (timeGameOver > 1)
+        float timeGameOverMusic = 3f;
+        while (timeGameOverMusic > 0)
         {
-
-            timeGameOver -= Time.deltaTime;
+            timeGameOverMusic -= Time.deltaTime;
             yield return null;
         }
 
         float timeGameOverText = 6f;
 
-
         ManagerStage.ms.showTextgameOver();
 
-        while (timeGameOverText > 1)
+        while (timeGameOverText > 0)
         {
-
             timeGameOverText -= Time.deltaTime;
             yield return null;
         }
 
         SceneManager.LoadScene("Start");
         reset();
-        
-
     }
 
 

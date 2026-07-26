@@ -19,6 +19,7 @@ public class GameManager : MonoBehaviour
     private bool GettingLateTime;
     private bool OutOfTime;
     private bool DeadTime;
+    private bool isNextStageStarted;
 
 
     private void Awake()
@@ -40,9 +41,7 @@ public class GameManager : MonoBehaviour
         GettingLateTime = false;
         OutOfTime = false;
         DeadTime = false;
-
-
-
+        isNextStageStarted = false;
     }
 
 
@@ -161,46 +160,29 @@ public class GameManager : MonoBehaviour
 
     private void nBall()
     {
-   
-
-        if(GameObject.FindGameObjectsWithTag("ball").Length == 0)
+        if (!isNextStageStarted && GameObject.FindGameObjectsWithTag("ball").Length == 0)
         {
-
-           
+            isNextStageStarted = true;
             StartCoroutine(NextStage());
         }
-
     }
 
 
     public IEnumerator NextStage()
     {
-
-        
- 
         yield return new WaitForSeconds(1f);
 
         MusicManager.mn.stop();
-
         ManagerScore.ms.timeBonus = (int)TimeGame;
-
-        // Aca cambia al siguiente Pais
 
         if (infoStage.si.endCountry)
         {
-
             SceneManager.LoadScene("MapChange");
-
         }
         else
         {
-
             SceneManager.LoadScene("ChangeStage");
-
         }
-
-        
-
     }
         
 
@@ -316,64 +298,48 @@ public class GameManager : MonoBehaviour
 
     public void frezzerAll()
     {
-
-
-
         GameObject[] arrayBall = GameObject.FindGameObjectsWithTag("ball");
-
-
 
         foreach (GameObject ball in arrayBall)
         {
-
-            ball.GetComponent<Ball>().freezeBall();
-
+            if (ball != null)
+            {
+                ball.GetComponent<Ball>().freezeBall();
+            }
         }
 
-
-       
         GameObject[] arrayPlayer = GameObject.FindGameObjectsWithTag("Player");
-
-
 
         foreach (GameObject player in arrayPlayer)
         {
-
-            player.GetComponent<PlayerController>().stateFreeze = true;
-
+            if (player != null)
+            {
+                player.GetComponent<PlayerController>().stateFreeze = true;
+            }
         }
-
-      
     }
-
-
 
     private void unFrezzerAll()
     {
-
-
         GameObject[] arrayBall = GameObject.FindGameObjectsWithTag("ball");
 
         for (int i = 0; i < arrayBall.Length; i++)
         {
-
-            arrayBall[i].GetComponent<Ball>().unfreezeBall();
-
-
+            if (arrayBall[i] != null)
+            {
+                arrayBall[i].GetComponent<Ball>().unfreezeBall();
+            }
         }
-
 
         GameObject[] arrayPlayer = GameObject.FindGameObjectsWithTag("Player");
 
         for (int i = 0; i < arrayPlayer.Length; i++)
         {
-
-            arrayPlayer[i].GetComponent<PlayerController>().stateFreeze = false;
-
-
+            if (arrayPlayer[i] != null)
+            {
+                arrayPlayer[i].GetComponent<PlayerController>().stateFreeze = false;
+            }
         }
-
-
     }
 
 

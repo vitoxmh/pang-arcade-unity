@@ -579,47 +579,27 @@ public class PlayerController : MonoBehaviour
     {
         if (col.gameObject.tag == "item")
         {
-            
             SoundManager.sm.play("GetItem");
-
         }
-
 
         if (col.gameObject.tag == "ball" && !BallManager.bm.freeze)
         {
-
             col.gameObject.GetComponent<CircleCollider2D>().isTrigger = true;
-
             dead();
-
         }
-
-
 
         if (col.gameObject.tag == "Wall" || col.gameObject.tag == "blockVertical")
         {
-
-
             if (col.contacts[0].normal.x > 0)
             {
                 wallLeft = true;
-
             }
             else if (col.contacts[0].normal.x < 0)
             {
                 wallRigth = true;
-
             }
-
-
         }
-
-
-
-
-
     }
-
 
 
     void OnCollisionStay2D(Collision2D col)
@@ -688,55 +668,40 @@ public class PlayerController : MonoBehaviour
 
     public void dead()
     {
+        if (GameManager.gm.Lose) return;
+
         GameManager.gm.frezzerAll();
         GameManager.gm.Lose = true;
         rg.velocity = Vector2.zero;
         Animator.speed = 0;
         rg.isKinematic = true;
-       
 
         BallManager.bm.unTriggerColliderBall();
 
         StartCoroutine(throwPlayer());
-
-
     }
 
 
     public IEnumerator throwPlayer()
     {
-
-
         yield return new WaitForSeconds(1f);
-        rg.gravityScale = 3;
-        SoundManager.sm.play("Lose");
 
+        if (this == null) yield break;
+
+        SoundManager.sm.play("Lose");
         gameObject.GetComponent<BoxCollider2D>().isTrigger = true;
         rg.isKinematic = false;
-
-        Animator.SetInteger("PlayerAnimation", 10);
-        
-
         rg.gravityScale = 3f;
+        Animator.SetInteger("PlayerAnimation", 10);
 
         if (transform.position.x <= 0)
         {
-            //rg.velocity = new Vector2(-2f, 7f);
-            rg.isKinematic = false;
-            rg.AddForce(new Vector2(-4,40), ForceMode2D.Impulse);
-
+            rg.AddForce(new Vector2(-4, 40), ForceMode2D.Impulse);
         }
         else
         {
-            //rg.velocity = new Vector2(2f, 7f);
-            rg.isKinematic = false;
             rg.AddForce(new Vector2(4, 40), ForceMode2D.Impulse);
-
         }
-        
-
-
-
     }
 
 

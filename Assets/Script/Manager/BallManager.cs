@@ -45,23 +45,17 @@ public class BallManager : MonoBehaviour
 
     }
 
-    // Update is called once per frame
     void Update()
     {
-
         if (isBallBang)
         {
             BangAllBall();
-
         }
 
         if (Input.GetKeyDown(KeyCode.Z))
         {
             BangAllBallKill();
         }
-
-
-
     }
 
 
@@ -187,59 +181,47 @@ public class BallManager : MonoBehaviour
 
     public void BangAllBall()
     {
-
-
-
         if (Time.time > detalDelayBang)
         {
-
-
             detalDelayBang = Time.time + 0.35f;
 
             GameObject[] arrayBall = GameObject.FindGameObjectsWithTag("ball");
-
+            bool hasBallsToSplit = false;
 
             foreach (GameObject ball in arrayBall)
             {
-                if (ball.GetComponent<Ball>().sizeBall < 3)
+                if (ball != null && ball.GetComponent<Ball>().sizeBall < 3)
                 {
                     ball.GetComponent<Ball>().bangBall();
+                    hasBallsToSplit = true;
                 }
-                
             }
 
-
+            if (!hasBallsToSplit || arrayBall.Length == 0)
+            {
+                isBallBang = false;
+            }
         }
-
-
     }
 
 
 
     public void BangAllBallKill()
     {
-
-
-
         if (Time.time > detalDelayBang)
         {
-
-
             detalDelayBang = Time.time + 0.35f;
 
             GameObject[] arrayBall = GameObject.FindGameObjectsWithTag("ball");
 
-
             foreach (GameObject ball in arrayBall)
             {
-                ball.GetComponent<Ball>().bangBall();
-
+                if (ball != null)
+                {
+                    ball.GetComponent<Ball>().bangBall();
+                }
             }
-
-
         }
-
-
     }
 
 
@@ -250,87 +232,75 @@ public class BallManager : MonoBehaviour
 
     public void InvisibleAllBall()
     {
-
         GameObject[] arrayBall = GameObject.FindGameObjectsWithTag("ball");
 
         for (int i = 0; i < arrayBall.Length; i++)
         {
-
-            arrayBall[i].GetComponent<Ball>().Invisible();
-
+            if (arrayBall[i] != null)
+            {
+                arrayBall[i].GetComponent<Ball>().Invisible();
+            }
         }
-
     }
 
     public void noInvisibleAllBall()
     {
-
         GameObject[] arrayBall = GameObject.FindGameObjectsWithTag("ball");
 
         for (int i = 0; i < arrayBall.Length; i++)
         {
-
-            arrayBall[i].GetComponent<Ball>().NoInvisible();
-
+            if (arrayBall[i] != null)
+            {
+                arrayBall[i].GetComponent<Ball>().NoInvisible();
+            }
         }
-
     }
 
 
 
     public void freezeBall()
     {
-
         GameObject[] arrayBall = GameObject.FindGameObjectsWithTag("ball");
 
         for (int i = 0; i < arrayBall.Length; i++)
         {
-
-
-            arrayBall[i].GetComponent<Ball>().freezeBall();
-
-
+            if (arrayBall[i] != null)
+            {
+                arrayBall[i].GetComponent<Ball>().freezeBall();
+            }
         }
-
     }
 
 
 
     public void unfreezeBall()
     {
-
         GameObject[] arrayBall = GameObject.FindGameObjectsWithTag("ball");
 
-        if (!GameManager.gm.Lose) {
-
-            for (int i = 0; i < arrayBall.Length; i++)
+        for (int i = 0; i < arrayBall.Length; i++)
+        {
+            if (arrayBall[i] != null)
             {
-
                 arrayBall[i].GetComponent<Ball>().unfreezeBall();
-
-
             }
-
-            freeze = false;
-
         }
 
-
+        freeze = false;
     }
 
      
 
     public void unTriggerColliderBall()
     {
-
         GameObject[] arrayBall = GameObject.FindGameObjectsWithTag("ball");
 
         for (int i = 0; i < arrayBall.Length; i++)
         {
-            arrayBall[i].GetComponent<CircleCollider2D>().isTrigger = true;
+            if (arrayBall[i] != null)
+            {
+                arrayBall[i].GetComponent<CircleCollider2D>().isTrigger = true;
+            }
         }
-
-
     }
 
 

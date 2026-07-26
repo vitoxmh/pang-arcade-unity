@@ -1,12 +1,9 @@
 using System.Collections;
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Ball : MonoBehaviour
 {
-     
- 
     public float starForce;
     public GameObject[] explotionPreFabs;
     public bool isFreeze;
@@ -19,7 +16,7 @@ public class Ball : MonoBehaviour
     public int colorBall;
     public bool directionBallLeft;
     public int sizeBall;
-    public int scoreBall; 
+    public int scoreBall;
     private Vector3 size;
     private float speedBall;
     public float ballBounce;
@@ -30,6 +27,7 @@ public class Ball : MonoBehaviour
     private ContactPoint2D[] contacts = new ContactPoint2D[10];
     public Vector2 currentVelocity;
     private bool starBounce;
+    private bool isDestroyed;
    
 
 
@@ -69,8 +67,7 @@ public class Ball : MonoBehaviour
 
         deltaInvisible = Time.time + deltaInvisible;
         maxExplotion = 0;
-
-
+        isDestroyed = false;
 
     }
 
@@ -190,27 +187,20 @@ public class Ball : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D col)
     {
-
+        if (isDestroyed) return;
 
         if (col.gameObject.tag == "piso" || col.gameObject.tag == "block" || col.gameObject.tag == "Wall" || col.gameObject.tag == "ladderTop" || col.gameObject.tag == "blockVertical")
         {
-           
-
             if(col.contacts[0].normal.y > 0)
             {
-               
                 if (stateSlow)
                 {
-
-                   
                     rb.velocity = new Vector2(0, ballBounce * 0.7f);
-
                 }
                 else
                 {
                     rb.velocity = new Vector2(0, ballBounce);
                 }
-
             }
             else if (col.contacts[0].normal.y < 0)
             {
@@ -222,7 +212,6 @@ public class Ball : MonoBehaviour
                 {
                     rb.velocity = new Vector2(0, -1f);
                 }
-                
             }
 
             if (col.contacts[0].normal.x > 0)
@@ -231,130 +220,71 @@ public class Ball : MonoBehaviour
             }
             else if (col.contacts[0].normal.x < 0)
             {
-
                 x = -speedBall;
             }    
-           
         }
 
-    
         if (col.gameObject.tag == "arma" || col.gameObject.tag == "shield")
         {
-
-            // Clona una bola  hasta que sea la mas chica
-
             bangBall();
-
-
         }
-
     }
 
 
 
     public void bangBall()
     {
+        if (isDestroyed) return;
+        isDestroyed = true;
 
-
-        GameObject newBall = gameObject;
-
-        if (gameObject.GetComponent<Ball>().sizeBall < 3 && maxExplotion == 0)
+        if (sizeBall < 3 && maxExplotion == 0)
         {
             GameObject newBall01;
             GameObject newBall02;
 
-            newBall.transform.localScale = new Vector3(2f, 2.5f, 0);
-            newBall.GetComponent<Ball>().directionBallLeft = true;
-            newBall.GetComponent<Ball>().sizeBall += 1;
+            transform.localScale = new Vector3(2f, 2.5f, 0);
+            directionBallLeft = true;
+            sizeBall += 1;
 
-            newBall01 = Instantiate(newBall, rb.position, Quaternion.identity);
+            newBall01 = Instantiate(gameObject, rb.position, Quaternion.identity);
 
-            newBall.GetComponent<Ball>().directionBallLeft = false;
-            newBall02 = Instantiate(newBall, rb.position, Quaternion.identity);
+            directionBallLeft = false;
+            newBall02 = Instantiate(gameObject, rb.position, Quaternion.identity);
 
-            // Hace un salto 
             newBall01.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 3.5f);
             newBall02.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 3.5f);
             maxExplotion++;
-
-
         }
-
-
 
         GameObject newExplotion = Instantiate(explotionPreFabs[colorBall], rb.position, Quaternion.identity);
         newExplotion.transform.localScale = size;
 
-        Destroy(gameObject, (float)0);
-
-
+        Destroy(gameObject, 0f);
     }
 
     void OnTriggerEnter2D(Collider2D col)
     {
-
+        if (isDestroyed) return;
 
         if (col.CompareTag("ESPACIOPISO"))
         {
             Debug.Log("dssssssssss");
-
         }
-
 
         if (col.CompareTag("arma") || col.CompareTag("shield"))
         {
-
-            // Clona una bola mas chica hasta que sea la mas chica
-
-            GameObject newBall = gameObject;
-
-            if (gameObject.GetComponent<Ball>().sizeBall < 3 && maxExplotion == 0)
+            if (sizeBall < 3 && maxExplotion == 0)
             {
-                GameObject newBall01;
-                GameObject newBall02;
-
-                newBall.transform.localScale = new Vector3(2f, 2.5f, 0);
-                newBall.GetComponent<Ball>().directionBallLeft = true;
-                newBall.GetComponent<Ball>().sizeBall += 1;
-
-                newBall01 = Instantiate(newBall, new Vector2(rb.position.x - 0.15f, rb.position.y), Quaternion.identity);
-
-                newBall.GetComponent<Ball>().directionBallLeft = false;
-                newBall02 = Instantiate(newBall, new Vector2(rb.position.x + 0.15f, rb.position.y), Quaternion.identity);
-    
-                // Hace un salto 
-                newBall01.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 3.5f);
-                newBall02.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 3.5f);
-                maxExplotion++;
-
                 ItemManager.im.createItemRandom(transform);
-
-
-
-
             }
 
-            GameObject newExplotion = Instantiate(explotionPreFabs[colorBall], rb.position, Quaternion.identity);
-            newExplotion.transform.localScale = size;
-
-            Destroy(gameObject, (float)0);
+            bangBall();
         }
-
     }
 
 
-    void OnCollisionExit2D(Collision2D other)
+    public void freezeBall()
     {
-        if (other.gameObject.tag == "piso")
-        {
-           
-
-
-        }
-            
-    }
-
-    public void freezeBall() {
 
         isFreeze = true;
         currentVelocity = GetComponent<Rigidbody2D>().velocity;
