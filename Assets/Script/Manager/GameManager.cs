@@ -19,6 +19,7 @@ public class GameManager : MonoBehaviour
     private bool GettingLateTime;
     private bool OutOfTime;
     private bool DeadTime;
+    private bool nextStageStarted;
 
 
     private void Awake()
@@ -163,10 +164,10 @@ public class GameManager : MonoBehaviour
     {
    
 
-        if(GameObject.FindGameObjectsWithTag("ball").Length == 0)
+        if(!nextStageStarted && GameObject.FindGameObjectsWithTag("ball").Length == 0)
         {
 
-           
+            nextStageStarted = true;
             StartCoroutine(NextStage());
         }
 

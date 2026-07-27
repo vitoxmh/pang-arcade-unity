@@ -154,10 +154,12 @@ public class BallManager : MonoBehaviour
             while (freezeTime > 0)
             {
 
-                if (!GameManager.gm.Lose)
+                if (GameManager.gm.Lose)
                 {
+                    break;
+                }
 
-                    freezeTime -= Time.deltaTime;
+                freezeTime -= Time.deltaTime;
             
  
                     if (!initPalpate && deltaNextState <= Time.time && freezeTime < 2.5f)
@@ -173,7 +175,6 @@ public class BallManager : MonoBehaviour
                         deltaNextState = 0.13f + Time.time;
                         initPalpate = false;
                     }
-                }
 
                 yield return null;
             }

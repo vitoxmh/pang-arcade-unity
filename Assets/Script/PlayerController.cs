@@ -37,6 +37,7 @@ public class PlayerController : MonoBehaviour
     public bool wallRigth;
     public bool fly;
     public bool newLadder;
+    private bool isDead;
 
 
     /************************************
@@ -51,10 +52,11 @@ public class PlayerController : MonoBehaviour
 
     void Awake()
     {
-        //gameObject.layer uses only integers, but we can turn a layer name into a layer integer using LayerMask.NameToLayer()
-        int LayerIgnoreRaycast = LayerMask.NameToLayer("Player");
-        gameObject.layer = LayerIgnoreRaycast;
-        Debug.Log("Current layer: " + gameObject.layer);
+        int playerLayer = LayerMask.NameToLayer("Player");
+        if (playerLayer != -1)
+        {
+            gameObject.layer = playerLayer;
+        }
     }
 
     void Start()
@@ -688,6 +690,9 @@ public class PlayerController : MonoBehaviour
 
     public void dead()
     {
+        if (isDead) return;
+        isDead = true;
+
         GameManager.gm.frezzerAll();
         GameManager.gm.Lose = true;
         rg.velocity = Vector2.zero;
