@@ -30,6 +30,7 @@ public class Ball : MonoBehaviour
     private ContactPoint2D[] contacts = new ContactPoint2D[10];
     public Vector2 currentVelocity;
     private bool starBounce;
+    private float bounceVariation;
    
 
 
@@ -69,6 +70,7 @@ public class Ball : MonoBehaviour
 
         deltaInvisible = Time.time + deltaInvisible;
         maxExplotion = 0;
+        bounceVariation = 0f;
 
 
 
@@ -194,42 +196,28 @@ public class Ball : MonoBehaviour
 
         if (col.gameObject.tag == "piso" || col.gameObject.tag == "block" || col.gameObject.tag == "Wall" || col.gameObject.tag == "ladderTop" || col.gameObject.tag == "blockVertical")
         {
-           
+            Vector2 contactNormal = col.contacts[0].normal;
+            bounceVariation = Random.Range(-0.3f, 0.3f);
 
-            if(col.contacts[0].normal.y > 0)
+            if(contactNormal.y > 0)
             {
-               
-                if (stateSlow)
-                {
+                float bounceForce = stateSlow ? ballBounce * 0.7f : ballBounce;
+                rb.velocity = new Vector2(0, bounceForce + bounceVariation);
 
-                   
-                    rb.velocity = new Vector2(0, ballBounce * 0.7f);
-
-                }
-                else
-                {
-                    rb.velocity = new Vector2(0, ballBounce);
-                }
-
+                float speedBoost = 1f + Random.Range(-0.1f, 0.15f);
+                x = (x > 0 ? speedBall : -speedBall) * speedBoost;
             }
-            else if (col.contacts[0].normal.y < 0)
+            else if (contactNormal.y < 0)
             {
-                if (stateSlow)
-                {
-                    rb.velocity = new Vector2(0, -0.5f);
-                }
-                else
-                {
-                    rb.velocity = new Vector2(0, -1f);
-                }
-                
+                float fallSpeed = stateSlow ? -1.5f : -2.5f;
+                rb.velocity = new Vector2(0, fallSpeed + bounceVariation * 0.3f);
             }
 
-            if (col.contacts[0].normal.x > 0)
+            if (contactNormal.x > 0)
             {
                  x = speedBall;
             }
-            else if (col.contacts[0].normal.x < 0)
+            else if (contactNormal.x < 0)
             {
 
                 x = -speedBall;

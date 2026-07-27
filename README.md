@@ -20,6 +20,7 @@ Recreación del clásico juego de arcade **Pang** (también conocido como *Buste
 - [Scripts principales](#scripts-principales)
 - [Configuración](#configuración)
 - [Known Issues](#known-issues)
+- [Changelog](#changelog)
 - [Créditos](#créditos)
 
 ---
@@ -29,7 +30,7 @@ Recreación del clásico juego de arcade **Pang** (también conocido como *Buste
 - **39 niveles de juego** organizados en 13 países con 3 etapas cada uno
 - **Sistema de mapa mundial** con transiciones animadas entre países (avión)
 - **3 tipos de armas**: Cadena (Flecha), Anzuelo y Pistola (Bala)
-- **4 tamaños de pelotas** que se dividen al ser impactadas
+- **4 tamaños de pelotas** que se dividen al ser impactadas, con rebotes naturales y variados
 - **8 tipos de power-ups**: Escudo, Reloj (congelar), Reloj de arena (ralentizar), Dinamita (destruir todas), Vida extra, Cambio de arma
 - **Sistema de combos** de puntuación (hasta 15x combo)
 - **Sistema de monedas/créditos** estilo arcade (insertar moneda para jugar)
@@ -283,7 +284,7 @@ El proyecto sigue un patrón **Singleton** extensamente. Cada manager es accesib
 |---|---|---|
 | `Assets/Script/Manager/GameManager.cs` | `GameManager` | Controla el bucle principal del juego |
 | `Assets/Script/Manager/PlayerController.cs` | `PlayerController` | Movimiento, disparo, colisiones y muerte del jugador |
-| `Assets/Script/Ball.cs` | `Ball` | Comportamiento de pelotas: movimiento, rebote, división, estados |
+| `Assets/Script/Ball.cs` | `Ball` | Comportamiento de pelotas: movimiento, rebote mejorado con variación aleatoria, división, estados |
 | `Assets/Script/ConfigGame.cs` | `ConfigGame` | Configuración global del juego |
 | `Assets/Script/Manager/MusicManager.cs` | `MusicManager` | Sistema de audio musical |
 | `Assets/Script/Manager/SoundManager.cs` | `SoundManager` | Sistema de efectos de sonido |
@@ -359,6 +360,30 @@ Cada escena de juego tiene un componente `infoStage` configurado con:
 - No existe archivo de licencia.
 - No hay tests unitarios implementados a pesar de que el paquete `com.unity.test-framework` está incluido.
 - Los comentarios del código y nombres de algunas variables están en español.
+
+---
+
+## Changelog
+
+### Mejoras en el rebote de pelotas (Ball.cs)
+
+El sistema de rebote fue mejorado para ofrecer una experiencia más natural y dinámica:
+
+- **Variación aleatoria en la altura de rebote**: Cada rebote tiene una variación de ±0.3 en la fuerza vertical, evitando trayectorias predecibles y repetitivas.
+- **Velocidad horizontal dinámica**: Al rebotar, la velocidad horizontal se ajusta con un boost aleatorio de 0.9x a 1.5x, creando arcos más naturales.
+- **Rebote del suelo mejorado**: La velocidad al tocar el suelo pasó de -1.0 a -2.5 (normal) y de -0.5 a -1.5 (slow), haciendo que las bolas se muevan más dinámicamente después de tocar el piso.
+- **Caída con variación**: La velocidad de caída también incluye una ligera variación aleatoria.
+
+**Valores de rebote por tamaño de pelota:**
+
+| Tamaño | BallBounce | SpeedBall | Score |
+|---|---|---|---|
+| 0 (Grande) | 11.5 | 1.0 | 50 |
+| 1 | 9.5 | 0.8 | 100 |
+| 2 | 7.0 | 0.7 | 150 |
+| 3 (Pequeña) | 6.0 | 0.5 | 200 |
+
+**Tags de colisión soportados:** `piso`, `block`, `Wall`, `ladderTop`, `blockVertical`, `arma`, `shield`
 
 ---
 

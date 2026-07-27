@@ -1,3 +1,6 @@
 Library/
 Packages/packages-lock.json
 Temp/
+obj/
+.vs/
+UserSettings/
