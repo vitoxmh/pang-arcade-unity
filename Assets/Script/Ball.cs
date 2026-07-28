@@ -34,12 +34,6 @@ public class Ball : MonoBehaviour
    
 
 
-    void Awake()
-    {
-        Application.targetFrameRate = 100;
-    }
-
-
     void Start()
     {
 
@@ -260,11 +254,11 @@ public class Ball : MonoBehaviour
             newBall.GetComponent<Ball>().directionBallLeft = false;
             newBall02 = Instantiate(newBall, rb.position, Quaternion.identity);
 
-            // Hace un salto 
             newBall01.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 3.5f);
             newBall02.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 3.5f);
             maxExplotion++;
 
+            ItemManager.im.createItemRandom(transform);
 
         }
 
@@ -273,7 +267,7 @@ public class Ball : MonoBehaviour
         GameObject newExplotion = Instantiate(explotionPreFabs[colorBall], rb.position, Quaternion.identity);
         newExplotion.transform.localScale = size;
 
-        Destroy(gameObject, (float)0);
+        Destroy(gameObject);
 
 
     }
@@ -291,41 +285,7 @@ public class Ball : MonoBehaviour
 
         if (col.CompareTag("arma") || col.CompareTag("shield"))
         {
-
-            // Clona una bola mas chica hasta que sea la mas chica
-
-            GameObject newBall = gameObject;
-
-            if (gameObject.GetComponent<Ball>().sizeBall < 3 && maxExplotion == 0)
-            {
-                GameObject newBall01;
-                GameObject newBall02;
-
-                newBall.transform.localScale = new Vector3(2f, 2.5f, 0);
-                newBall.GetComponent<Ball>().directionBallLeft = true;
-                newBall.GetComponent<Ball>().sizeBall += 1;
-
-                newBall01 = Instantiate(newBall, new Vector2(rb.position.x - 0.15f, rb.position.y), Quaternion.identity);
-
-                newBall.GetComponent<Ball>().directionBallLeft = false;
-                newBall02 = Instantiate(newBall, new Vector2(rb.position.x + 0.15f, rb.position.y), Quaternion.identity);
-    
-                // Hace un salto 
-                newBall01.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 3.5f);
-                newBall02.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 3.5f);
-                maxExplotion++;
-
-                ItemManager.im.createItemRandom(transform);
-
-
-
-
-            }
-
-            GameObject newExplotion = Instantiate(explotionPreFabs[colorBall], rb.position, Quaternion.identity);
-            newExplotion.transform.localScale = size;
-
-            Destroy(gameObject, (float)0);
+            bangBall();
         }
 
     }

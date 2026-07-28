@@ -221,34 +221,15 @@ public class LifeManager : MonoBehaviour
 
 
 
-        float timeGameOver = 3f;
-        
         textContinue.transform.GetChild(0).gameObject.GetComponent<Text>().text = "GAME OVER";
         countContinue.enabled = false; 
 
-        while (timeGameOver > 1)
-        {
-
-            timeGameOver -= Time.deltaTime;
-            yield return null;
-        }
-
-        MusicManager.mn.stop();
-
-        MusicManager.mn.play("GameOver");
-
-
-        while (timeGameOver > 1)
-        {
-
-            timeGameOver -= Time.deltaTime;
-            yield return null;
-        }
-
-        float timeGameOverText = 6f;
-
+        float timeGameOverText = 9f;
 
         ManagerStage.ms.showTextgameOver();
+
+        MusicManager.mn.stop();
+        MusicManager.mn.play("GameOver");
 
         while (timeGameOverText > 1)
         {

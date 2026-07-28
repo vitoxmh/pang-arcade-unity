@@ -64,10 +64,6 @@ public class ItemManager : MonoBehaviour
            break; 
 
         }
-        
-
-
-
 
     }
 
@@ -76,136 +72,47 @@ public class ItemManager : MonoBehaviour
     public void createItemRandom(Transform positionObject)
     {
 
-        int RandomInt;
-
         int combo = ManagerScore.ms.combo;
 
+        int randomInt;
 
-        if(combo >= 0 && combo <= 7)
+        if (combo >= 0 && combo <= 7)
         {
-
-            RandomInt = Random.Range(0, 60);
-
-            if(RandomInt == 0 || RandomInt == 10 || RandomInt == 20 || RandomInt == 30 || RandomInt == 40 || RandomInt == 50 || RandomInt == 35 || RandomInt == 25)
-            {
-
-                // Dinamita
-                createItem("Dynamite", positionObject);
-
-
-            }
-            else if(RandomInt == 15 || RandomInt == 30 || RandomInt == 50)
-            {
-
-                // Sheild
-                createItem("Shield", positionObject);
-
-            }
-            else if (RandomInt == 11 || RandomInt == 31 || RandomInt == 49)
-            {
-
-                // Hook
-                createItem("Hook", positionObject);
-            }
-            else if (RandomInt == 12 || RandomInt == 32 || RandomInt == 48)
-            {
-
-                // Arrow
-                createItem("Arrow", positionObject);
-            }
-            else if (RandomInt == 13 || RandomInt == 33 || RandomInt == 47)
-            {
-
-                // Clock
-                createItem("Clock", positionObject);
-            }
-            else if (RandomInt == 14 || RandomInt == 34 || RandomInt == 46)
-            {
-
-                // SandClock
-                createItem("SandClock", positionObject);
-            }
-            else if (RandomInt == 15 || RandomInt == 35 || RandomInt == 45)
-            {
-
-                // Gun
-                createItem("Gun", positionObject);
-            }
-
-
+            randomInt = Random.Range(0, 7);
         }
         else
         {
-
-
-
-
-
-            RandomInt = Random.Range(0, 50);
-
-            if (RandomInt == 0 || RandomInt == 10 || RandomInt == 30 || RandomInt == 40)
-            {
-
-                // Dinamita
-                createItem("Dynamite", positionObject);
-
-            }
-            else if (RandomInt == 1 || RandomInt == 11 || RandomInt == 21 || RandomInt == 31 || RandomInt == 41 || RandomInt == 50)
-            {
-
-                // Sheild
-                createItem("Shield", positionObject);
-
-            }
-            else if (RandomInt == 2 || RandomInt == 12 || RandomInt == 22 || RandomInt == 32 || RandomInt == 42 || RandomInt == 49)
-            {
-
-                // Hook
-                createItem("Hook", positionObject);
-            }
-            else if (RandomInt == 3 || RandomInt == 13 || RandomInt == 23 || RandomInt == 33 || RandomInt == 43 || RandomInt == 48)
-            {
-
-                // Arrow
-                createItem("Arrow", positionObject);
-            }
-            else if (RandomInt == 4 || RandomInt == 14 || RandomInt == 24 || RandomInt == 34 || RandomInt == 44 || RandomInt == 47)
-            {
-
-                // Clock
-                createItem("Clock", positionObject);
-            }
-            else if (RandomInt == 3 || RandomInt == 13 || RandomInt == 23 || RandomInt == 33 || RandomInt == 43 || RandomInt == 48)
-            {
-
-                // SandClock
-                createItem("SandClock", positionObject);
-            }
-            else if (RandomInt == 4 || RandomInt == 14 || RandomInt == 24 || RandomInt == 34 || RandomInt == 44 || RandomInt == 47)
-            {
-
-                // Gun
-                createItem("Gun", positionObject);
-            }
-
-
-
-
+            randomInt = Random.Range(0, 8);
         }
 
-        
-
-
-        
-
-
-
-
+        switch (randomInt)
+        {
+            case 0:
+                createItem("Dynamite", positionObject);
+                break;
+            case 1:
+                createItem("Shield", positionObject);
+                break;
+            case 2:
+                createItem("Hook", positionObject);
+                break;
+            case 3:
+                createItem("Arrow", positionObject);
+                break;
+            case 4:
+                createItem("Clock", positionObject);
+                break;
+            case 5:
+                createItem("SandClock", positionObject);
+                break;
+            case 6:
+                createItem("Gun", positionObject);
+                break;
+            case 7:
+                createItem("Life", positionObject);
+                break;
+        }
 
     }
-
-
-
-
 
 }

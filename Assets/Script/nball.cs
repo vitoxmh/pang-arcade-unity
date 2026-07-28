@@ -4,22 +4,23 @@ using UnityEngine;
 using UnityEngine.UI;
 public class nball : MonoBehaviour
 {
-    // Start is called before the first frame update
-
     Text texto;
-    
+    private float updateInterval;
+    private float nextUpdateTime;
 
     void Start()
     {
         texto = GetComponent<Text>();
+        updateInterval = 0.25f;
+        nextUpdateTime = 0f;
     }
 
-    // Update is called once per frame
     void Update()
     {
-
-        //Debug.Log("nUMEROS DE BOLAS"+GameObject.FindGameObjectsWithTag("ball").Length);
-        texto.text = "N Balls: " + GameObject.FindGameObjectsWithTag("ball").Length.ToString();
-
+        if (Time.time >= nextUpdateTime)
+        {
+            nextUpdateTime = Time.time + updateInterval;
+            texto.text = "N Balls: " + GameObject.FindGameObjectsWithTag("ball").Length.ToString();
+        }
     }
 }

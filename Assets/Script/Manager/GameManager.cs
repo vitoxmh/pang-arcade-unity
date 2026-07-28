@@ -50,6 +50,7 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
+        Application.targetFrameRate = 100;
 
         if (GameObject.Find("DontDestroy"))
         {

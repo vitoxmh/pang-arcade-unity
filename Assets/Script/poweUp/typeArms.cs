@@ -47,8 +47,6 @@ public class typeArms : MonoBehaviour
 
             if (!GameManager.gm.Lose)
             {
-
-            
                 TimeLife -= Time.deltaTime;
 
 
@@ -65,14 +63,13 @@ public class typeArms : MonoBehaviour
                     deltaNextState = 0.13f + Time.time;
                     initPalpate = false;
                 }
-
-
-                yield return null;
             }
+
+            yield return null;
         }
 
 
-        Destroy(gameObject, (float)0f);
+        Destroy(gameObject);
 
     }
 
